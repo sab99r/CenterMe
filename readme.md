@@ -1,0 +1,1 @@
+One line Chrome Extension to Center Align Google Search in Ultra Wide Monitors. If you want other websites add it in the matches array.
