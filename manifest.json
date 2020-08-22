@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+   
+    "name": "CenterMe",
+    "version": "0.1.0",
+    "description": "Injects html padding to the matched pages. ",
+   
+    "content_scripts": [{
+      "js": ["content.js"],
+      "matches": ["https://www.google.com/search*"]
+    }]
+   
+  }
